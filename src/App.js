@@ -3,7 +3,6 @@ import Front from "./component/Front";
 import UserInfo from "./component/UserInfo";
 import "./component/userList.css";
 import React, { useState, useEffect } from 'react';
-
 import {
   BrowserRouter as Router,
   Routes,
